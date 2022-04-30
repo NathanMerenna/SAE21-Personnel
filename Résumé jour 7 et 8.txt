@@ -1,0 +1,16 @@
+﻿Nathan Merenna         
+SAE 21 
+Construire un réseau informatique pour une petite structure
+
+
+Travail du Lundi 11 avril 
+
+
+Lors du lundi 11 avril, Je n’ai pas pu me rendre à l’iut mais j’ai cherché chez moi comment mettre en place le firewall et après plusieurs recherches la meilleurs façon possible c’est averer etre de faire avec l’interface physique donc d’accepter ou refuser la connexion.
+
+
+Travail du vendredi 15 avril:
+
+
+J’ai mis en place l'hypothèse du lundi et ça s'est avéré concluant. 
+Je me suis permis de comprendre avec bastien l’acl même si ça n’était pas ma partie mais ça me semblait important pour le reste de la SAE et compliqué à comprendre.
