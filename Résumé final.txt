@@ -1,0 +1,39 @@
+﻿Nathan Merenna         
+SAE 21 
+Construire un réseau informatique pour une petite structure
+
+
+Lors de la dernière semaine il me restait à relier les parties physique et virtuelle entre elles.
+
+
+Malheureusement je suis tombé malade et j’ai dû rester chez moi donc mes collègues de groupes n’ont pas eu d’autre choix d’avancer sans moi.
+
+
+malgré cela je voulais mettre les commandes que j’aurai rentrées pour la connection:
+
+
+/interface vlan
+add interface=ether2        name=eth2-vlan200         vlan-id=200 
+
+
+add interface=ether2        name=eth2-vlan300         vlan-id=300
+ 
+add interface=ether2        name=eth2-vlan400         vlan-id=400 
+
+
+add interface=ether3        name=eth2-serveur_ext
+
+
+/interface ethernet
+set ether3 master-port=ether2 
+set ether4 master-port=ether3
+
+
+Configuration physique du dhcp:
+IP. -> Serveur DHCP et appuyez sur le bouton de configuration DHCP:
+192.168.1.254 ( DHCP externe créer par florent)
+
+
+
+
+Même configuration mais remplacer le DNS par 10.213.9.1
