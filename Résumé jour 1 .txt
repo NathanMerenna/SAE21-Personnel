@@ -1,0 +1,31 @@
+﻿Nathan Merenna         
+SAE 21 
+Construire un réseau informatique pour une petite structure
+
+
+Travail du jeudi 24 mars
+
+
+
+
+
+
+Le premier jour, on c'est partager les différentes tâches dans nos recherches.
+
+
+
+
+Ma partie:
+
+
+Dans ma partie je devais installées la partie physique:
+-   configuration du mikrotik 
+-   configuration du firewall 
+-   reliée la partie physique et virtuelle entre elles 
+
+
+je me suis occupés des recherches pour la configuration du mikrotik:
+
+
+- https://help.mikrotik.com/docs/display/ROS/Building+Your+First+Firewall 
+pour la gestion du firewall sur le mikrotik
