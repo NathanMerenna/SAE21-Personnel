@@ -1,0 +1,12 @@
+﻿Nathan Merenna         
+SAE 21 
+Construire un réseau informatique pour une petite structure
+
+
+Travail du vendredi 25 mars 
+
+
+
+
+Je me suis occupé de récupérer un mikrotik pour l'associer à notre groupe.
+Il s'agissait du numéro 46

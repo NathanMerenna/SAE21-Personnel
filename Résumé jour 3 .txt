@@ -1,0 +1,27 @@
+﻿Nathan Merenna         
+SAE 21 
+Construire un réseau informatique pour une petite structure
+
+
+Travail du lundi 28 mars
+
+
+J'ai aidé Florent à trouver les commandes pour un serveur DNS en nous servant du tuto présent sur moodle et des recherche sur internet fais le premier jour sur :
+
+
+https://constellix.com/news/dns-record-types-cheat-sheet
+
+
+https://blog.youdot.io/fr/4-types-enregistrements-dns-a-connaitre/
+
+
+https://school.picasoft.net/modules/dns01/co/dns01_7.html
+
+
+https://web.maths.unsw.edu.au/~lafaye/CCM/protect/dmz-cloisonnement.htm
+
+
+https://www.youtube.com/watch?v=mpQZVYPuDGU
+
+
+Aider Bastien avec le gns3 pour voir ce qui fallait faire exactement et ce qui fallait configurer en virtuel et physique
